@@ -1,6 +1,6 @@
 # Shift AI models to real world products
 
-![Ver 0.1](https://img.shields.io/badge/Version-0.1-orange)  ![Gitbook](https://img.shields.io/badge/GitBook-0.1-brightgreen)
+![Ver 0.1](https://img.shields.io/badge/Version-0.3-orange)  [![Gitbook](https://img.shields.io/badge/GitBook-0.3-brightgreen)](https://lonelygo.gitbook.io/shift-ai-models-to-real-world-products/)
 
 In this repository, I will share some useful guides and references about how to shift AI models to real world products or projects.
 
@@ -60,9 +60,9 @@ Readme [中文](/README.md) | [English](/Translate/README_EN.md)
 
 ### [三、机器学习项目团队组成](/chapter-03/ch03_ML-Teams.md) - _Draft completed_
 
-### [四、产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md)
+### [四、产品经理的工作挑战](/chapter-04/ch04_Product-Manager-Challenge.md) - _Draft completed_
 
-### [五、项目售前与解决方案](/chapter-05/ch05_Project-Consulting-and-Solutions.md)
+### [五、项目售前与解决方案](/chapter-05/ch05_Project-Consulting-and-Solutions.md) - _Draft completed_
 
 ### [六、产品/项目启动](/chapter-06/ch06_Project-or-Product-Setup.md)
 
